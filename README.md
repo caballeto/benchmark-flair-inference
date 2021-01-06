@@ -10,8 +10,8 @@ Tested `ner-fast`:
 
 - CPU: 8, 1.6 GHz Intel Core i5
 - Total time: 6 mins
-- Time per 1k chars:
-- Articles per seconds:
+- Time per 1k chars:  0.53s
+- Articles per seconds: 0.7
 
 ### GPU performance
 
