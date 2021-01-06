@@ -2,25 +2,25 @@
 
 Tested `ner-fast`:
 
-Input size: 670k characters
-Average article size: 2500 characters
-Language: english
+- Input size: 670k characters
+- Average article size: 2500 characters
+- Language: english
 
 ### CPU performance
 
-CPU: 8, 1.6 GHz Intel Core i5
-Total time: 6 mins
-Time per 1k chars:
-Articles per seconds:
+- CPU: 8, 1.6 GHz Intel Core i5
+- Total time: 6 mins
+- Time per 1k chars:
+- Articles per seconds:
 
 ### GPU performance
 
-GPU: Tesla V100
-Card memory: 16 GB
-Accelerator: CUDA
-Total time: 20 seconds
-Time per 1k chars: 0.03 seconds
-Articles per seconds: 13.3
+- GPU: Tesla V100
+- Card memory: 16 GB
+- Accelerator: CUDA
+- Total time: 20 seconds
+- Time per 1k chars: 0.03 seconds
+- Articles per seconds: 13.3
 
 #### Conclusion
 
